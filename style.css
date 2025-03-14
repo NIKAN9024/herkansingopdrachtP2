@@ -1,0 +1,106 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    
+}
+
+.content-container {
+    position: relative;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.background-image {
+    width: 35vw;
+    height: auto;
+    float: right; /* Verplaatst de afbeelding naar de rechterkant */
+    margin-right:5vw/* Pas deze waarde aan voor betere plaatsing */
+}
+
+
+nav {
+    background-color: red;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.popular-games {
+    list-style-type: none;
+    padding: 0;
+}
+
+.popular-games li {
+    background-color: red;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 18px;
+    max-width: 400px;
+    text-align: center;
+    
+
+
+}
+
+.game-table {
+    width: 80%; /* Zorgt ervoor dat de tabel netjes in het midden staat */
+    margin: 20px auto; /* Centreert de tabel */
+    border-collapse: collapse; /* Zorgt ervoor dat randen strak tegen elkaar staan */
+    background-color: black; /* Zwarte achtergrond */
+    color: white; /* Witte tekst */
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border: 3px solid white; /* Witte rand om de tabel */
+}
+
+.game-table th, .game-table td {
+    border: 2px solid white; /* Witte randen tussen de cellen */
+    padding: 12px; /* Ruimte in de cellen */
+    text-align: left; /* Tekst links uitlijnen */
+    min-width: 150px; /* Zorgt ervoor dat kolommen even breed zijn */
+}
+
+.game-table th {
+    background-color: #ff3333; /* Roodachtige achtergrond voor de headers */
+    color: white;
+    font-size: 18px;
+    text-align: center; /* Centreert de tekst in de headers */
+}
+
+.game-table tr:nth-child(even) {
+    background-color: #222; /* Donkergrijze achtergrond voor afwisseling */
+}
+
+.game-table tr:nth-child(odd) {
+    background-color: #111; /* Nog iets donkerdere achtergrond */
+}
+
+.game-table tr:hover {
+    background-color: #444; /* Lichte kleur als je over een rij beweegt */
+}
+
+.centeredTitle{
+    text-align: center;
+
+}
