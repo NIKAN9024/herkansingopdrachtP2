@@ -44,7 +44,7 @@
     heel veel criminele activiteiten gedaan. In het noorden van de VS heeft hij een vliegveld operation gedaan waar hij Michael leerde kennen.
     In 2004 hebben Michael, Trevor en Brad een mislukte bankoverval gepleegd. Brad werdt dood geschoten door een sniper en Michael werdt geraakt in zijn schouder door de zelfde sniper maar overleeft het.
     Trevor ontsnapt. Sindsdien hebben Michael en Trevor elkaar niet gesproken tot 2013.
-    gggggggggggggggggggggggggggggggggggg
+   
 </p>
 </article>
 
