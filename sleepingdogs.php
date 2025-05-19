@@ -11,7 +11,7 @@
 
 
 <article>
-        <img src="sd.png" alt="Sleeping Dogs">
+        <img src="images/sd.png" alt="Sleeping Dogs">
         <h3>Sleeping Dogs</h3>
         <p>Sleeping Dogs is een game voornamelijk gebasseerd op criminaliteit. Je speelt als Wei Shen, een chinees voormalig crimineel die 
             na een tijdje Amerika weer terug is verhuist naar Hong Kong. Hij is met 2 andere mannen 

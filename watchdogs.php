@@ -11,7 +11,7 @@
 
 
 <article>
-        <img src="wd2.png" alt="Watch Dogs 2">
+        <img src="images/wd2.png" alt="Watch Dogs 2">
         <h3>Watch Dogs 2</h3>
         <p>Watch Dogs 2 is een game gebasseerd op hacken voor criminele
             organisaties en het veroorzaken van criminele

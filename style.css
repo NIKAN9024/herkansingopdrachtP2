@@ -14,8 +14,8 @@ body {
 .background-image {
     width: 35vw;
     height: auto;
-    float: right; /* Verplaatst de afbeelding naar de rechterkant */
-    margin-right:5vw/* Pas deze waarde aan voor betere plaatsing */
+    float: right; 
+    margin-right:5vw; 
 }
 
 
@@ -64,40 +64,40 @@ nav ul li a:hover {
 }
 
 .game-table {
-    width: 80%; /* Zorgt ervoor dat de tabel netjes in het midden staat */
-    margin: 20px auto; /* Centreert de tabel */
-    border-collapse: collapse; /* Zorgt ervoor dat randen strak tegen elkaar staan */
-    background-color: black; /* Zwarte achtergrond */
-    color: white; /* Witte tekst */
+    width: 80%; 
+    margin: 20px auto; 
+    border-collapse: collapse; 
+    background-color: black; 
+    color: white; 
     font-family: Arial, sans-serif;
     font-size: 16px;
-    border: 3px solid white; /* Witte rand om de tabel */
+    border: 3px solid white; 
 }
 
 .game-table th, .game-table td {
-    border: 2px solid white; /* Witte randen tussen de cellen */
-    padding: 12px; /* Ruimte in de cellen */
-    text-align: left; /* Tekst links uitlijnen */
-    min-width: 150px; /* Zorgt ervoor dat kolommen even breed zijn */
+    border: 2px solid white; 
+    padding: 12px; 
+    text-align: left; 
+    min-width: 150px; 
 }
 
 .game-table th {
-    background-color: #ff3333; /* Roodachtige achtergrond voor de headers */
+    background-color: #ff3333; 
     color: white;
     font-size: 18px;
-    text-align: center; /* Centreert de tekst in de headers */
+    text-align: center; 
 }
 
 .game-table tr:nth-child(even) {
-    background-color: #222; /* Donkergrijze achtergrond voor afwisseling */
+    background-color: #222; 
 }
 
 .game-table tr:nth-child(odd) {
-    background-color: #111; /* Nog iets donkerdere achtergrond */
+    background-color: #111; 
 }
 
 .game-table tr:hover {
-    background-color: #444; /* Lichte kleur als je over een rij beweegt */
+    background-color: #444; 
 }
 
 .centeredTitle{

@@ -3,16 +3,10 @@ $error = "";
 $success = "";
 
 
-// if ($_SERVER["REQUEST_METHOD"] == "POST") {
-//     $username = trim($_POST["username"]);
-//     $email = trim($_POST["email"]);
-//     $favorite_game = $_POST["favorite_game"];
-
 if (isset($_POST["submit"])) {
     $username = trim($_POST["username"]);
     $email = trim($_POST["email"]);
     $favorite_game = $_POST["favorite_game"];
-
 
     if (empty($username) || empty($email) || empty($favorite_game)) {
         $error = "Alle velden moeten ingevuld zijn!";

@@ -10,7 +10,7 @@
 <?php include 'nav.php'; ?>
 
 <article>
-<img src="mainGTA.png" alt="GTA 5 update">
+<img src="images/mainGTA.png" alt="GTA 5 update">
 <h3>Grand Theft Auto 5</h3>
 <p>Grand Theft Auto V (GTA 5) is een game dat is gebasseerd op criminaliteit. Je gaat in deze game veel bankovervallen, prive problemen en ook missies om andere te helpen.
     De game speelt zich af in de fictieve stad Los Santos, een stad geïnspireerd op Los Angeles. 

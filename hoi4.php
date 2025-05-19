@@ -14,7 +14,7 @@
 
 <article>
    
-        <img src="heartsofiron4.png" alt="Hearts Of Iron 4">
+        <img src="images/heartsofiron4.png" alt="Hearts Of Iron 4">
         <h3>Hearts Of Iron 4</h3>
         <p>Haerts Of Iron 4 is een spel dat zich afspeelt in de tweede wereld oorlog. 
             Het is een game voor de computer (PC) en het gaat erom dat je een land moet kiezen

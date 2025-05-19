@@ -11,7 +11,7 @@
    
 
     <article>
-        <img src="acStory.png" alt="AC Syndicate">
+        <img src="images/acStory.png" alt="AC Syndicate">
         <h3>Assassin’s Creed Syndicate</h3>
         <p>Assassin’s Creed Syndicate is een game dat zich
             afspeelt tijdens de eeuw 1800 en als een huurmoordenaar
