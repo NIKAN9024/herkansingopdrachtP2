@@ -61,7 +61,7 @@ if (isset($_POST["submit"])) {
             <option value="HOI4">Hearts of Iron 4</option>
         </select>
 
-        <button type="submit">Registreer</button>
+        <button type="submit"  name="submit">Registreer</button>
     </form>
 
 </body>
